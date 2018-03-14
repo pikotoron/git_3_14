@@ -3,3 +3,5 @@ git操作の練習用リポジトリ。
 git慣れ慣れ。
 
 ennshuuあるのみ。
+
+year!
