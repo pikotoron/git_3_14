@@ -3,6 +3,7 @@
 int main(void)
 {
   printf("Hello Git!\n");
+  printf("Welcome to Git!\n");
 
   return 0;
 }
